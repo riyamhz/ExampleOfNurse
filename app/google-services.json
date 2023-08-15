@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "376906726049",
+    "project_id": "nurse-d8fd1",
+    "storage_bucket": "nurse-d8fd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376906726049:android:7aeaed2b36972083508ee0",
+        "android_client_info": {
+          "package_name": "com.example.nurse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376906726049-v5j8v0b4arpe52es1h8qvtipaqbj36ik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTcWJUjb-xqKnkT38xihzlX2Dvk_LEnyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376906726049-v5j8v0b4arpe52es1h8qvtipaqbj36ik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
